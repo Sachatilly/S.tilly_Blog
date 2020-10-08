@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "___'s Blog"
+title: "Sacha.tilly_blog"
 output_dir: "docs"
 navbar:
   right:
@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+base_url: Sachatilly.github.io/Sacha.tilly_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
